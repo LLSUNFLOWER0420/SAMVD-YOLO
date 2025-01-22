@@ -10,7 +10,8 @@ you can get the official YOLOv8 code at https://github.com/ultralytics/ultralyti
 ```conda create -n SAMVD-YOLO python=3.9
 conda activate SAMVD-YOLO
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118```
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
 # Train
 ```import warnings
 warnings.filterwarnings('ignore')
@@ -31,4 +32,5 @@ if __name__ == '__main__':
                 amp=True,  
                 project='Run/train',
                 name='SAMVD-YOLO',
-                )```
+                )
+```
