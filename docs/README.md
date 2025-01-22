@@ -5,7 +5,7 @@ Scale-adaptive method for road vehicle detection based on an improved YOLOv8.
 # Submission to the Journal
 ### The Visual Computer
 # Code
-you can get the official YOLOv8 code at https://github.com/ultralytics/ultralytics
+you can get the official YOLOv8 code at https://github.com/ultralytics/ultralytics, and then add our improvement code to the project.
 # Environment
 ```conda create -n SAMVD-YOLO python=3.9
 conda activate SAMVD-YOLO
