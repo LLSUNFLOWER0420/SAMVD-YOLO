@@ -1,9 +1,9 @@
 # SAMVD-YOLO
 Scale-adaptive method for road vehicle detection based on an improved YOLOv8.
 # Title
-##### Precision Multidimensional Vehicle Information Perception via Video Data Analytics
+### Precision Multidimensional Vehicle Information Perception via Video Data Analytics
 # Submission to the Journal
-##### The Visual Computer
+### The Visual Computer
 # Code
 you can get the official YOLOv8 code at https://github.com/ultralytics/ultralytics
 # Environment
